@@ -1,0 +1,71 @@
+{
+  "total": 13,
+  "passed": 13,
+  "results": [
+    {
+      "id": "TC01",
+      "passed": true,
+      "description": "Lô 014: 19.200 kg, 4 vườn, đạt 7/7"
+    },
+    {
+      "id": "TC02",
+      "passed": true,
+      "description": "Mã lô không tồn tại báo trạng thái phù hợp"
+    },
+    {
+      "id": "TC03",
+      "passed": true,
+      "description": "Lô 015: tạo nháp → pháp chế duyệt → công bố v1, SHA-256 hợp lệ"
+    },
+    {
+      "id": "TC04",
+      "passed": true,
+      "description": "Lô 017 bị chặn R5, không tự kết luận phá rừng"
+    },
+    {
+      "id": "TC05",
+      "passed": true,
+      "description": "Lô 016 chặn R3/R4/R6: thiếu polygon, giấy tờ và lệch 550 kg"
+    },
+    {
+      "id": "TC06",
+      "passed": true,
+      "description": "GeoJSON được tải: 7 polygon khép kín, mã lô 015"
+    },
+    {
+      "id": "TC07",
+      "passed": true,
+      "description": "PDF 1.4 tải được, có mã lô và 7 quy tắc"
+    },
+    {
+      "id": "TC08",
+      "passed": true,
+      "description": "QR được vẽ và liên kết hash mở lô 015"
+    },
+    {
+      "id": "TC09",
+      "passed": true,
+      "description": "TK-0002 tạo và phản hồi, trạng thái hiển thị cho khách"
+    },
+    {
+      "id": "TC10",
+      "passed": true,
+      "description": "Điện thoại 390 px, không tràn ngang, không lộ dữ liệu riêng"
+    },
+    {
+      "id": "TC11",
+      "passed": true,
+      "description": "Khắc phục 3 ngoại lệ dữ liệu mẫu đưa lô 016 về 7/7"
+    },
+    {
+      "id": "TC12",
+      "passed": true,
+      "description": "Cảnh báo 017 chỉ được đóng bằng vai trò Pháp chế, sau thao tác xác nhận"
+    },
+    {
+      "id": "TC13",
+      "passed": true,
+      "description": "Không có lỗi runtime JavaScript: 0 lỗi"
+    }
+  ]
+}

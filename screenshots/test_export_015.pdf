@@ -1,0 +1,92 @@
+%PDF-1.4
+%TraceHub academic export
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3711 >>
+stream
+1 1 1 rg 0 0 595 842 re f
+0.075 0.235 0.19 rg 0 734 595 108 re f
+1 1 1 rg BT /F2 12 Tf 38 797 Td (TRACEHUB  /  SIMEXCO) Tj ET
+1 1 1 rg BT /F2 21 Tf 38 773 Td (EUDR SHIPMENT DATA PACKAGE) Tj ET
+0.77 0.9 0.8 rg BT /F1 9 Tf 38 751 Td (ACADEMIC DEMONSTRATION  -  NOT AN EU DDS) Tj ET
+0.15 0.39 0.27 rg BT /F2 10 Tf 38 704 Td (SHIPMENT IDENTIFICATION) Tj ET
+0.84 0.89 0.86 RG 0.6 w 38 694 m 557 694 l S
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 675 Td (Shipment ID) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 675 Td (LOT-2026-EU-015) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 651 Td (Destination) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 651 Td (Hamburg, Duc) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 627 Td (Importer) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 627 Td (Elbe Roasters GmbH) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 603 Td (Product / HS) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 603 Td (Green coffee \(Robusta\) / 0901.11) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 579 Td (Origin) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 579 Td (Viet Nam - Dak Lak) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 555 Td (Net weight) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 555 Td (38,400 kg) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 531 Td (Production period) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 531 Td (Nien vu 2025/2026) Tj ET
+0.49 0.56 0.5 rg BT /F1 9 Tf 38 507 Td (Version) Tj ET
+0.18 0.27 0.22 rg BT /F2 10 Tf 179 507 Td (v1 / Published 2026-10-20) Tj ET
+0.15 0.39 0.27 rg BT /F2 10 Tf 38 471 Td (DATA QUALITY CHECKS \(R1-R7\)) Tj ET
+0.84 0.89 0.86 RG 0.6 w 38 461 m 557 461 l S
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 442 Td (R1  Shipment core metadata) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 442 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 421 Td (R2  Source chain linkage) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 421 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 400 Td (R3  Plot geolocation) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 400 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 379 Td (R4  Legal evidence) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 379 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 358 Td (R5  Risk verification) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 358 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 337 Td (R6  Weight reconciliation) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 337 Td (PASS) Tj ET
+0.2 0.31 0.25 rg BT /F1 9.2 Tf 38 316 Td (R7  Farm production capacity) Tj ET
+0.16 0.43 0.29 rg BT /F2 9.2 Tf 496 316 Td (PASS) Tj ET
+0.15 0.39 0.27 rg BT /F2 10 Tf 38 269 Td (SOURCE PLOTS) Tj ET
+0.84 0.89 0.86 RG 0.6 w 38 258 m 557 258 l S
+0.3 0.41 0.34 rg BT /F1 9 Tf 39 240 Td (DL-KR-0005   2.90 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 213 240 Td (DL-KR-0006   2.70 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 387 240 Td (DL-KR-0007   2.40 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 39 221 Td (DL-KR-0008   3.10 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 213 221 Td (DL-KR-0009   2.80 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 387 221 Td (DL-KR-0010   3 ha) Tj ET
+0.3 0.41 0.34 rg BT /F1 9 Tf 39 202 Td (DL-KR-0011   2.80 ha) Tj ET
+0.15 0.39 0.27 rg BT /F2 10 Tf 38 166 Td (INTEGRITY / SHA-256 \(DEMONSTRATION\)) Tj ET
+0.3 0.39 0.32 rg BT /F1 9 Tf 38 146 Td (7e599cb5fcd0c822968a6f8b576329026543512496c7dd8a) Tj ET
+0.3 0.39 0.32 rg BT /F1 9 Tf 38 132 Td (1959f37996edc626) Tj ET
+0.84 0.89 0.86 RG 0.6 w 38 113 m 557 113 l S
+0.47 0.55 0.5 rg BT /F1 8 Tf 38 98 Td (For EU operator due-diligence preparation only. No automated legal conclusion.) Tj ET
+0.47 0.55 0.5 rg BT /F1 8 Tf 38 83 Td (Simulated data. No connection to any Simexco production system or EU portal.) Tj ET
+0.34 0.51 0.38 rg BT /F2 8 Tf 38 48 Td (EUDR TraceHub  |  LOT-2026-EU-015) Tj ET
+0.5 0.59 0.52 rg BT /F1 8 Tf 506 48 Td (Page 1 / 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000035 00000 n 
+0000000084 00000 n 
+0000000141 00000 n 
+0000000277 00000 n 
+0000000347 00000 n 
+0000000422 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4184
+%%EOF

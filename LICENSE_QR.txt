@@ -1,0 +1,5 @@
+QRCode for JavaScript
+Copyright (c) 2009 Kazuhiko Arase
+MIT License: http://www.opensource.org/licenses/mit-license.php
+Original project: http://www.d-project.com/
+Bundled from the MIT-licensed version included with qrcode-terminal.

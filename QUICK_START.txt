@@ -1,0 +1,16 @@
+EUDR TRACEHUB - DEMO S2 (CÀ PHÊ XUẤT EU) - DỮ LIỆU GIẢ LẬP
+
+1) GIẢI NÉN EUDR_TraceHub_S2_Demo_SourceCode.zip
+2) MỞ TERMINAL / POWERSHELL TẠI THƯ MỤC EUDR_TraceHub_Demo
+3) CHẠY: python -m http.server 8765
+4) TRUY CẬP: http://localhost:8765
+
+THỬ NGAY:
+- Lô LOT-2026-EU-016: thấy 3 lỗi R3/R4/R6.
+- Lô LOT-2026-EU-015: vào Vận hành → Tạo bản nháp → chọn vai trò Pháp chế → Phê duyệt → quay về Vận hành → Công bố.
+- Cổng EU: nhập LOT-2026-EU-014 hoặc lô 015 sau công bố; tải GeoJSON / PDF / danh mục bằng chứng, xem QR.
+- Nông hộ: nhập DL-BH-0014 và xem hướng dẫn cần bổ sung.
+- Yêu cầu hỗ trợ: gửi ticket từ cổng EU, phản hồi ở vai trò nội bộ.
+
+ĐỌC README.md ĐỂ XEM TOÀN BỘ GIỚI HẠN DỮ LIỆU, PHÁP LÝ, BẢO MẬT VÀ CÁCH KIỂM THỬ.
+ỨNG DỤNG CHỈ PHỤC VỤ HỌC THUẬT. KHÔNG KẾT NỐI SIMEXCO HOẶC EU.
